@@ -1,3 +1,7 @@
+# JavaScript object properties iterations test
+In this project you will find in the main component file, my object properties iterations test.
+[To more details go view my article on the subject](https://medium.com/swlh/javascript-iterate-over-object-properties-b20fe67b5b9b)!
+
 # IteratingOverObjectPropertiesPreformenceCheck
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
